@@ -1,4 +1,4 @@
-import { FizzBuzz } from '../src/fizzbuzz';
+import { FizzBuzz } from '../src/test_fizzbuzz';
 import assert from 'power-assert';
 
 let fizzbuzz: FizzBuzz;
